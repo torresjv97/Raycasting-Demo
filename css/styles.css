@@ -11,3 +11,12 @@ canvas {
     border-width: 8px;
     border-color: #fff;
 }
+
+h1, h3, h4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
